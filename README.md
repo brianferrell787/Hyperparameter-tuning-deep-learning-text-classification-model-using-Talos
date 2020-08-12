@@ -24,15 +24,15 @@ Finding the best model might be more luck than skill when you’re new to this, 
 
 [Documentation](https://autonomio.github.io/talos/)
 
-# **Tableau Viz Example**:
+# **Tableau Viz 1 Example**:
 ![alt text](tableau.jpg?raw=true "Title")
-
+# **Tableau Viz 2 Example**:
 ![alt text](tableau1.jpg?raw=true "Title")
-
+# **Tableau Viz 3 Example**:
 ![alt text](tableau2.jpg?raw=true "Title")
-
+# **Tableau Viz 4 Example**:
 ![alt text](tableau3.jpg?raw=true "Title")
 
 # **Correlation heat map Viz Example**:
-![alt text](heat.corre?raw=true "Title")
+![alt text](heatcorre.jpg?raw=true "Title")
 
