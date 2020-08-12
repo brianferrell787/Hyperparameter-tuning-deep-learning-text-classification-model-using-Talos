@@ -3,7 +3,7 @@ Taken from Talos's GitHub: "Talos is made for data scientists and data engineers
 
 
 
-#**Install**
+# **Install**:
 ``` python
 !pip install talos
 ```
