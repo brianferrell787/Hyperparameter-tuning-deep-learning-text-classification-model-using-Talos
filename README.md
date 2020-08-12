@@ -3,20 +3,16 @@ Taken from Talos's GitHub: "Talos is made for data scientists and data engineers
 
 
 
-#Install
-
-Stable version:
-
-#`pip install talos`
-
+#**Install**
+``` python
+!pip install talos
+```
 
 
+###  Resources I used:
 
+[Example](https://towardsdatascience.com/hyperparameter-optimization-with-keras-b82e6364ca53)  
 
-###  Resources I used
-
-[Link](https://towardsdatascience.com/hyperparameter-optimization-with-keras-b82e6364ca53)  [~15 mins]
-
-[Documentation/Manual](https://autonomio.github.io/talos/).
+[Documentation](https://autonomio.github.io/talos/).
 
 
